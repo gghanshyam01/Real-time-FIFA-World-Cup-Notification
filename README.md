@@ -7,7 +7,9 @@ This script fetches the live commentary of the current FIFA World Cup matches an
 Steps to use this script:
 1. You'll need an account on way2sms.com through which this script is sending SMS.
 2. After creating an account, save your credentials in a file keys.py
+  
   Ex. 
+  
     username = 'Your username'
   
     password = 'Your password'
