@@ -1,5 +1,6 @@
 # Real-time-FIFA-World-Cup-Notification
-  Want to get live notification of the FIFA World Cup matches without internet?
+  
+Want to get live notification of the FIFA World Cup matches without internet?
 This script fetches the live commentary of the current FIFA World Cup matches and sends it to your mobile number across India.
 
 Steps to use this script:
